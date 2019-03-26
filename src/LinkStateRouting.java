@@ -6,10 +6,11 @@ import java.util.LinkedHashMap;
 import java.util.Scanner;
 
 /**
-* @author Linlei Lie - 10431934 
-* 		  Ye Fang - 10431002
-* 		  Bolin Chen - 10427071
-* @date Nov 20, 2018 
+* @author 
+*	Linlei Lie
+* 	Ye Fang
+* 	Bolin Chen
+* @date Nov 20, 2015
 * @version 
 */
 public class LinkStateRouting {
